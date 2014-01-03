@@ -1,4 +1,4 @@
 FileBot Hosted Naming Scheme
 ============================
 
-This is a collection of filebot naming schemes to be loaded directly from a series of groovy files that I am yet to finish. When I do, I'll put it here, and reference everything on the FileBot forums.
+This is a collection of filebot naming schemes to be loaded directly from the advanced context menu script which can be installed from here: https://github.com/CapriciousSage/cmdlets/blob/master/context_menu_setup.cmd
